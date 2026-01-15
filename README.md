@@ -2,7 +2,7 @@
 
 ---
 
-## 📱 Live Demo
+## Live Demo
 
 👉 **Experience the app instantly:** [https://hopdot.exchange](https://hopdot.exchange)
 
@@ -17,7 +17,7 @@ A fully functional, production-ready cryptocurrency exchange platform that lets 
 - Build a Web3 product line
 - Enter the $1T+ cryptocurrency market
 - Generate passive income from transaction fees
-- 
+
 ---
 
 ## What You Get
@@ -56,7 +56,6 @@ Built with **modern, battle-tested technologies**:
 | **Language** | TypeScript | 5.x (Type-Safe) |
 | **UI Components** | Radix UI | Latest (27+ components) |
 | **Styling** | Tailwind CSS | 4.x (Utility-First) |
-| **Charts** | Recharts | 3.0.2 |
 | **Icons** | Lucide React | Latest |
 
 ---
@@ -69,13 +68,11 @@ Built with **modern, battle-tested technologies**:
 - **Passive Income** - Users do the trading, you earn automatically
 
 ### Cost Savings
-- ✅ Save **6+ months** of development time
-- ✅ Avoid **>$20,000** in development costs
-- ✅ No backend infrastructure needed (Swapter handles it)
-- ✅ No payment processing overhead
-- ✅ No KYC/compliance overhead (optional framework included)
-- ✅ Get to market in **days, not months**
-- ✅ Reduce go-to-market risk by 80%
+- Save **6+ months** of development time
+- Avoid **>$20,000** in development costs
+- No backend infrastructure needed (Swapter handles it)
+- Get to market in **days, not months**
+- Reduce go-to-market risk by 80%
 
 ### Market Size
 - Global cryptocurrency market: **$3+ trillion**
