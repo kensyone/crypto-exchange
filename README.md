@@ -82,7 +82,16 @@ Built with **modern, battle-tested technologies**:
 - Swapter already processes **$500M+ monthly volume**
 
 ---
+## Performance
 
+**Performance:** 100/100
+**Accessibility:** 96/100
+**Best Practices:** 100/100
+**SEO:** 100/100
+
+![Performance](performance.jpg)
+
+---
 ## Ready To Start Earning From Crypto? 
 
 **Your journey to a profitable crypto exchange platform starts here.**
